@@ -30,7 +30,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
 </p>
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o Front End
 
 ```bash
 # Clone este repositório
